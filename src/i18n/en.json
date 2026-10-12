@@ -1,11 +1,283 @@
 {
-  "navigation":{"label":"Main navigation","language":"Language","home":"Home","about":"About","services":"Services","news":"News","contact":"Contact","openMenu":"Open navigation menu","closeMenu":"Close navigation menu"},
-  "buttons":{"getInTouch":"Get in Touch","ourServices":"Our Services","viewAllServices":"View all services","learnMore":"Learn more","readArticle":"Read article"},
-  "footer":{"services":"AI • Software • CAD/CAM • Digital Transformation"},
-  "cta":{"label":"Let's work together"},
-  "home":{"hero":{"label":"Technology that moves business forward","title":"Build smarter operations.","highlight":"Shape what's next.","description":"Tony Tech Solutions helps businesses and manufacturers apply AI, software, CAD/CAM and digital transformation where they make the greatest difference."},"intro":{"label":"TTS at a glance","title":"Technology with a business purpose.","text":"We pair practical technical expertise with a clear understanding of business and manufacturing operations."},"servicesTitle":"Focused expertise. Real outcomes.","servicesDescription":"Capabilities designed to help your organization operate with confidence and move ahead with clarity.","why":{"label":"Why TTS","title":"A partner for meaningful progress.","lead":"We bring technology and business thinking together to solve real operational challenges.","text":"From the shop floor to the boardroom, we help organizations make practical, lasting improvements through the right digital tools."},"newsLabel":"Latest insights","newsTitle":"Ideas for the next move.","cta":{"title":"Ready to make technology work harder for your business?","text":"Tell us where you want to go. We'll help map the way forward."}},
-  "services":{"label":"Our expertise","hero":{"label":"What we do","title":"Solutions built around your operation.","text":"We turn technology into practical advantages for businesses and manufacturers."},"overviewTitle":"Technology that solves real work.","overviewText":"Our services are designed to bring more clarity, precision and momentum to your organization.","items":[{"title":"AI Solutions","description":"Practical AI tools that turn business data into clearer decisions, smarter workflows and measurable value."},{"title":"Software Solutions","description":"Reliable, tailored software that connects your teams, simplifies operations and supports growth."},{"title":"CAD/CAM","description":"Engineering and manufacturing solutions that bring more precision, efficiency and control to production."},{"title":"Digital Transformation","description":"A practical path from legacy processes to connected digital operations built for the future."}],"cta":{"title":"Let's find the right solution for your next challenge.","text":"Start a conversation with the TTS team."}},
-  "about":{"hero":{"label":"About TTS","title":"Technology applied with purpose.","text":"Tony Tech Solutions is a technology partner for businesses and manufacturers ready to move forward."},"who":{"label":"Who we are","title":"Built for practical progress.","lead":"We make complex technology clear, useful and relevant to the work you do.","text":"TTS combines technical capability with a grounded understanding of operations, helping teams turn opportunity into sustainable improvement."},"mission":{"label":"Our mission","title":"Make technology useful.","text":"To deliver capable, approachable solutions that help people and organizations do their best work."},"vision":{"label":"Our vision","title":"A more connected industry.","text":"We see a future where every business can confidently use digital tools to innovate, adapt and grow."},"approach":{"label":"Our approach","title":"Listen first. Build with purpose.","text":"We begin with your goals and real conditions, then bring the right expertise together to deliver solutions that fit."},"capabilities":{"label":"Capabilities","title":"What we bring to the table.","items":["Business and operational understanding","Applied technology expertise","Manufacturing-focused problem solving","A collaborative delivery approach"]},"cta":{"title":"Let's build the next chapter together."}},
-  "news":{"hero":{"label":"News & insights","title":"Perspectives for progress.","text":"News, ideas and practical perspectives from the TTS team."},"categories":["All","AI","Software","CAD/CAM","Transformation"],"featured":"Featured insight","items":[{"category":"AI","date":"Coming soon","title":"Making AI practical for day-to-day operations","excerpt":"A look at where thoughtful AI adoption can create momentum without adding unnecessary complexity."},{"category":"Transformation","date":"Coming soon","title":"The foundations of a successful digital transformation","excerpt":"Why process clarity and a focused roadmap matter before introducing new technology."},{"category":"CAD/CAM","date":"Coming soon","title":"Precision in the connected manufacturing workflow","excerpt":"How integrated engineering tools can help teams move from idea to production with confidence."}],"cta":{"title":"Have a challenge worth exploring?"}},
-  "contact":{"hero":{"label":"Contact TTS","title":"Let's start a conversation.","text":"Tell us a little about your challenge, opportunity or next project."},"info":{"label":"Contact information","title":"We're here to help.","text":"Reach out by email or prepare a message using the form. You will need to send it yourself in your messaging app.","email":"Email","phone":"Phone","whatsapp":"WhatsApp"},"form":{"name":"Your name","namePlaceholder":"Enter your name","email":"Work email","emailPlaceholder":"Enter your email","message":"How can we help?","messagePlaceholder":"Tell us about your project","button":"Prepare message","company":"Company (optional)","companyPlaceholder":"Enter your company name","service":"Service of interest (optional)","servicePlaceholder":"Select a service","channel":"Message via","channels":{"whatsapp":"WhatsApp"},"instructions":"This opens WhatsApp with your inquiry prefilled. Review the message in WhatsApp and send it yourself; TTS does not receive it until you press Send.","validation":{"nameRequired":"Please enter your name.","emailRequired":"Please enter your email address.","emailInvalid":"Please enter a valid email address.","messageRequired":"Please enter an inquiry."},"prepared":{"title":"Your message is ready to copy","notice":"No inquiry has been delivered to TTS. Review the prefilled text in WhatsApp and send it yourself.","copyLabel":"Prepared inquiry message","fallback":"If WhatsApp did not open, use this link or copy the message below.","openLink":"Open WhatsApp","button":"Message prepared"}},"location":{"label":"Location","title":"Working with teams wherever they are.","text":"Our location details will be shared here soon.","mapPlaceholder":"Location map coming soon"},"cta":{"title":"Prefer to email us directly?","text":"We look forward to hearing from you."}}
+  "site": {
+    "description": "Tony Tech Solutions delivers AI, software, CAD/CAM and digital transformation solutions."
+  },
+  "navigation": {
+    "label": "Main navigation",
+    "language": "Language",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "work": "Our Work",
+    "news": "News",
+    "contact": "Contact",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "brandHome": "Tony Tech Solutions home"
+  },
+  "buttons": {
+    "getInTouch": "Get in Touch",
+    "ourServices": "Our Services",
+    "viewAllServices": "View all services",
+    "learnMore": "Learn more",
+    "readArticle": "Read article"
+  },
+  "footer": {
+    "services": "AI • Software • CAD/CAM • Digital Transformation"
+  },
+  "cta": {
+    "label": "Let's work together"
+  },
+  "home": {
+    "hero": {
+      "label": "Technology that moves business forward",
+      "title": "Build smarter operations.",
+      "highlight": "Shape what's next.",
+      "description": "Tony Tech Solutions helps businesses and manufacturers apply AI, software, CAD/CAM and digital transformation where they make the greatest difference."
+    },
+    "intro": {
+      "label": "TTS at a glance",
+      "title": "Technology with a business purpose.",
+      "text": "We pair practical technical expertise with a clear understanding of business and manufacturing operations."
+    },
+    "servicesTitle": "Focused expertise. Real outcomes.",
+    "servicesDescription": "Capabilities designed to help your organization operate with confidence and move ahead with clarity.",
+    "why": {
+      "label": "Why TTS",
+      "title": "A partner for meaningful progress.",
+      "lead": "We bring technology and business thinking together to solve real operational challenges.",
+      "text": "From the shop floor to the boardroom, we help organizations make practical, lasting improvements through the right digital tools."
+    },
+    "newsLabel": "Latest insights",
+    "newsTitle": "Ideas for the next move.",
+    "cta": {
+      "title": "Ready to make technology work harder for your business?",
+      "text": "Tell us where you want to go. We'll help map the way forward."
+    }
+  },
+  "services": {
+    "label": "Our expertise",
+    "hero": {
+      "label": "What we do",
+      "title": "Solutions built around your operation.",
+      "text": "We turn technology into practical advantages for businesses and manufacturers."
+    },
+    "overviewTitle": "Technology that solves real work.",
+    "overviewText": "Our services are designed to bring more clarity, precision and momentum to your organization.",
+    "items": [
+      {
+        "title": "AI Solutions",
+        "description": "Practical AI tools that turn business data into clearer decisions, smarter workflows and measurable value."
+      },
+      {
+        "title": "Software Solutions",
+        "description": "Reliable, tailored software that connects your teams, simplifies operations and supports growth."
+      },
+      {
+        "title": "CAD/CAM",
+        "description": "Engineering and manufacturing solutions that bring more precision, efficiency and control to production."
+      },
+      {
+        "title": "Digital Transformation",
+        "description": "A practical path from legacy processes to connected digital operations built for the future."
+      }
+    ],
+    "cta": {
+      "title": "Let's find the right solution for your next challenge.",
+      "text": "Start a conversation with the TTS team."
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "About TTS",
+      "title": "Technology applied with purpose.",
+      "text": "Tony Tech Solutions is a technology partner for businesses and manufacturers ready to move forward."
+    },
+    "who": {
+      "label": "Who we are",
+      "title": "Built for practical progress.",
+      "lead": "We make complex technology clear, useful and relevant to the work you do.",
+      "text": "TTS combines technical capability with a grounded understanding of operations, helping teams turn opportunity into sustainable improvement."
+    },
+    "mission": {
+      "label": "Our mission",
+      "title": "Make technology useful.",
+      "text": "To deliver capable, approachable solutions that help people and organizations do their best work."
+    },
+    "vision": {
+      "label": "Our vision",
+      "title": "A more connected industry.",
+      "text": "We see a future where every business can confidently use digital tools to innovate, adapt and grow."
+    },
+    "approach": {
+      "label": "Our approach",
+      "title": "Listen first. Build with purpose.",
+      "text": "We begin with your goals and real conditions, then bring the right expertise together to deliver solutions that fit."
+    },
+    "capabilities": {
+      "label": "Capabilities",
+      "title": "What we bring to the table.",
+      "items": [
+        "Business and operational understanding",
+        "Applied technology expertise",
+        "Manufacturing-focused problem solving",
+        "A collaborative delivery approach"
+      ]
+    },
+    "cta": {
+      "title": "Let's build the next chapter together."
+    }
+  },
+  "news": {
+    "visualLabel": "INSIGHT",
+    "hero": {
+      "label": "News & insights",
+      "title": "Perspectives for progress.",
+      "text": "News, ideas and practical perspectives from the TTS team."
+    },
+    "categories": [
+      "All",
+      "AI",
+      "Software",
+      "CAD/CAM",
+      "Transformation"
+    ],
+    "featured": "Featured insight",
+    "items": [
+      {
+        "category": "AI",
+        "date": "Coming soon",
+        "title": "Making AI practical for day-to-day operations",
+        "excerpt": "A look at where thoughtful AI adoption can create momentum without adding unnecessary complexity."
+      },
+      {
+        "category": "Transformation",
+        "date": "Coming soon",
+        "title": "The foundations of a successful digital transformation",
+        "excerpt": "Why process clarity and a focused roadmap matter before introducing new technology."
+      },
+      {
+        "category": "CAD/CAM",
+        "date": "Coming soon",
+        "title": "Precision in the connected manufacturing workflow",
+        "excerpt": "How integrated engineering tools can help teams move from idea to production with confidence."
+      }
+    ],
+    "cta": {
+      "title": "Have a challenge worth exploring?"
+    }
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact TTS",
+      "title": "Let's start a conversation.",
+      "text": "Tell us a little about your challenge, opportunity or next project."
+    },
+    "info": {
+      "label": "Contact information",
+      "title": "We're here to help.",
+      "text": "Reach out by email or prepare a message using the form. You will need to send it yourself in your messaging app.",
+      "email": "Email",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Your name",
+      "namePlaceholder": "Enter your name",
+      "email": "Work email",
+      "emailPlaceholder": "Enter your email",
+      "message": "How can we help?",
+      "messagePlaceholder": "Tell us about your project",
+      "button": "Prepare message",
+      "company": "Company (optional)",
+      "companyPlaceholder": "Enter your company name",
+      "service": "Service of interest (optional)",
+      "servicePlaceholder": "Select a service",
+      "channel": "Message via",
+      "channels": {
+        "whatsapp": "WhatsApp"
+      },
+      "instructions": "This opens WhatsApp with your inquiry prefilled. Review the message in WhatsApp and send it yourself; TTS does not receive it until you press Send.",
+      "validation": {
+        "nameRequired": "Please enter your name.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address.",
+        "messageRequired": "Please enter an inquiry."
+      },
+      "prepared": {
+        "title": "Your message is ready to copy",
+        "notice": "No inquiry has been delivered to TTS. Review the prefilled text in WhatsApp and send it yourself.",
+        "copyLabel": "Prepared inquiry message",
+        "fallback": "If WhatsApp did not open, use this link or copy the message below.",
+        "openLink": "Open WhatsApp",
+        "button": "Message prepared"
+      }
+    },
+    "location": {
+      "label": "Location",
+      "title": "Working with teams wherever they are.",
+      "text": "Our location details will be shared here soon.",
+      "mapPlaceholder": "Location map coming soon"
+    },
+    "cta": {
+      "title": "Prefer to email us directly?",
+      "text": "We look forward to hearing from you."
+    }
+  },
+  "work": {
+    "hero": {
+      "label": "Our work",
+      "title": "Practical ideas for complex work.",
+      "text": "Explore illustrative concepts across AI, software, CAD/CAM and digital transformation. These placeholders are not completed TTS projects."
+    },
+    "sectionLabel": "Capabilities in focus",
+    "sectionTitle": "Illustrative project concepts.",
+    "sectionText": "This portfolio layout is ready for future project content. Every card shown here is a clearly marked placeholder, not a client engagement or case study.",
+    "filterLabel": "Filter project concepts",
+    "categories": {
+      "all": "All Projects",
+      "aiAutomation": "AI & Automation",
+      "software": "Software",
+      "cadCam": "CAD/CAM",
+      "digitalTransformation": "Digital Transformation"
+    },
+    "placeholderLabel": "Illustrative placeholder",
+    "placeholderNotice": "Placeholder concept only — not a completed TTS project.",
+    "imagePlaceholder": "Abstract placeholder illustration for {{title}}",
+    "viewDetails": "View details",
+    "detailLabel": "Project concept",
+    "detailHeading": "Concept overview",
+    "backToWork": "Back to Our Work",
+    "notFound": {
+      "title": "Project concept not found.",
+      "text": "This concept may have been removed or the address may be incorrect.",
+      "link": "Browse all project concepts"
+    },
+    "projects": {
+      "quality-review-concept": {
+        "title": "AI-assisted quality review concept",
+        "description": "An illustrative concept for organizing inspection information and supporting a human-led review workflow.",
+        "detail": "This placeholder describes a possible workflow concept only. It does not represent a delivered solution, a real client engagement, or a measured business result."
+      },
+      "operations-dashboard-concept": {
+        "title": "Operations dashboard concept",
+        "description": "An illustrative software concept for bringing selected operational information into one clear workspace.",
+        "detail": "This placeholder outlines a possible dashboard direction. No application has been built or deployed for a client, and no performance result is claimed."
+      },
+      "engineering-workflow-concept": {
+        "title": "Engineering workflow concept",
+        "description": "An illustrative CAD/CAM concept showing how engineering information might move through a production workflow.",
+        "detail": "This placeholder is a visual concept only, not a completed CAD/CAM implementation or an account of real manufacturing work."
+      },
+      "connected-operations-concept": {
+        "title": "Connected operations concept",
+        "description": "An illustrative digital transformation concept for mapping connections between operational processes and systems.",
+        "detail": "This placeholder represents a possible planning exercise only. It does not describe a real transformation project or claim a business outcome."
+      }
+    },
+    "cta": {
+      "title": "Have a project in mind?",
+      "text": "Tell us about your goals and the work you want to move forward."
+    }
+  }
 }

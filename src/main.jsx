@@ -9,11 +9,13 @@ import About from './pages/About'
 import Services from './pages/Services'
 import News from './pages/News'
 import Contact from './pages/Contact'
+import Work, { ProjectDetail } from './pages/Work'
 
 function App() {
   return <BrowserRouter><div className="site-shell"><Header /><main><Routes>
     <Route path="/" element={<Home />} /><Route path="/about" element={<About />} />
     <Route path="/services" element={<Services />} /><Route path="/news" element={<News />} />
+    <Route path="/work" element={<Work />} /><Route path="/work/:slug" element={<ProjectDetail />} />
     <Route path="/contact" element={<Contact />} />
   </Routes></main><Footer /></div></BrowserRouter>
 }

@@ -10,7 +10,8 @@ Treat the existing implementation as the source of truth. Preserve its architect
 
 - `index.html` is the Vite HTML entry; `src/main.jsx` imports global CSS and i18n, mounts the React app, and defines the shared shell and routes.
 - `src/components/` contains the shared `Header` and `Footer`.
-- `src/pages/` contains the `/`, `/about`, `/services`, `/news`, and `/contact` route components. Some shared page sections and helpers are currently exported from `Home.jsx` and `About.jsx`; reuse them where appropriate instead of duplicating behavior or relocating code without a clear need.
+- `src/pages/` contains the `/`, `/about`, `/services`, `/news`, `/work`, `/work/:slug`, and `/contact` route components. Some shared page sections and helpers are currently exported from `Home.jsx` and `About.jsx`; reuse them where appropriate instead of duplicating behavior or relocating code without a clear need.
+- `src/data/projects.js` holds CMS-ready project identifiers, categories, and presentation metadata separately from the Work page; translated project copy remains in the i18n dictionaries.
 - `src/i18n/index.js` configures English and Vietnamese resources, language detection, fallback to English, and localStorage caching. Translation dictionaries are `src/i18n/en.json` and `src/i18n/vi.json`.
 - `src/styles.css` is the centralized stylesheet. No separate asset directory, Vite config, or environment configuration is currently tracked.
 
@@ -42,7 +43,7 @@ There are no test or lint scripts configured in `package.json`. Do not claim tes
 
 - Reuse the existing header, footer, page hero, CTA, section heading, service card, and article card implementations where suitable.
 - Keep route changes in `src/main.jsx` and follow existing React Router patterns.
-- Preserve existing behavior unless the task requests a change. In particular, the contact form currently prevents submission without sending data, and the news category buttons/read-article affordance do not currently implement filtering or navigation; do not represent these as working features or silently change their behavior.
+- Preserve existing behavior unless the task requests a change. The contact form hands off a prefilled inquiry to WhatsApp but does not itself deliver messages or confirm receipt. The news category buttons/read-article affordance do not currently implement filtering or navigation; do not represent these as working features or silently change their behavior.
 
 ## Safe workflow and Git
 

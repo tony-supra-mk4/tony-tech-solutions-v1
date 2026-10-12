@@ -1,11 +1,283 @@
 {
-  "navigation":{"label":"Dieu huong chinh","language":"Ngon ngu","home":"Trang chu","about":"Gioi thieu","services":"Dich vu","news":"Tin tuc","contact":"Lien he","openMenu":"Mo menu dieu huong","closeMenu":"Dong menu dieu huong"},
-  "buttons":{"getInTouch":"Lien he","ourServices":"Dich vu cua chung toi","viewAllServices":"Xem tat ca dich vu","learnMore":"Tim hieu them","readArticle":"Doc bai viet"},
-  "footer":{"services":"AI • Phan mem • CAD/CAM • Chuyen doi so"},
-  "cta":{"label":"Cung hop tac"},
-  "home":{"hero":{"label":"Cong nghe thuc day doanh nghiep","title":"Van hanh thong minh hon.","highlight":"Kien tao tuong lai.","description":"Tony Tech Solutions giup doanh nghiep va nha san xuat ung dung AI, phan mem, CAD/CAM va chuyen doi so tai nhung noi tao ra gia tri lon nhat."},"intro":{"label":"Tong quan TTS","title":"Cong nghe vi muc tieu kinh doanh.","text":"Chung toi ket hop chuyen mon ky thuat thuc tien voi su thau hieu ro rang ve van hanh doanh nghiep va san xuat."},"servicesTitle":"Chuyen mon tap trung. Ket qua thuc chat.","servicesDescription":"Nang luc giup to chuc cua ban van hanh tu tin va tien ve phia truoc mot cach ro rang.","why":{"label":"Tai sao chon TTS","title":"Doi tac cho tien bo ben vung.","lead":"Chung toi ket hop tu duy cong nghe va kinh doanh de giai quyet cac thach thuc van hanh thuc te.","text":"Tu xưởng san xuat den phong hop, chung toi giup to chuc cai tien lau dai bang cac cong cu so phu hop."},"newsLabel":"Goc nhin moi nhat","newsTitle":"Y tuong cho buoc di tiep theo.","cta":{"title":"San sang de cong nghe phuc vu doanh nghiep tot hon?","text":"Hay cho chung toi biet muc tieu cua ban. Chung toi se giup ve lo trinh."}},
-  "services":{"label":"Chuyen mon cua chung toi","hero":{"label":"Dich vu","title":"Giai phap xoay quanh van hanh cua ban.","text":"Chung toi bien cong nghe thanh loi the thuc tien cho doanh nghiep va nha san xuat."},"overviewTitle":"Cong nghe giai quyet cong viec thuc te.","overviewText":"Dich vu cua chung toi mang lai su ro rang, chinh xac va dong luc cho to chuc.","items":[{"title":"Giai phap AI","description":"Cong cu AI thuc tien bien du lieu kinh doanh thanh quyet dinh ro rang, quy trinh thong minh va gia tri do duoc."},{"title":"Giai phap phan mem","description":"Phan mem dang tin cay, may do ket noi doi ngu, don gian hoa van hanh va ho tro tang truong."},{"title":"CAD/CAM","description":"Giai phap ky thuat va san xuat mang lai do chinh xac, hieu qua va kha nang kiem soat tot hon."},{"title":"Chuyen doi so","description":"Lo trinh thuc tien tu quy trinh cu sang van hanh so ket noi, san sang cho tuong lai."}],"cta":{"title":"Cung tim giai phap phu hop cho thach thuc tiep theo.","text":"Bat dau cuoc trao doi voi doi ngu TTS."}},
-  "about":{"hero":{"label":"Ve TTS","title":"Cong nghe duoc ung dung co muc dich.","text":"Tony Tech Solutions la doi tac cong nghe cho doanh nghiep va nha san xuat san sang tien ve phia truoc."},"who":{"label":"Chung toi la ai","title":"Xay dung cho tien bo thuc tien.","lead":"Chung toi lam cho cong nghe phuc tap tro nen ro rang, huu ich va phu hop voi cong viec cua ban.","text":"TTS ket hop nang luc ky thuat voi su thau hieu van hanh, giup doi ngu bien co hoi thanh cai tien ben vung."},"mission":{"label":"Su menh","title":"Lam cong nghe tro nen huu ich.","text":"Cung cap giai phap co nang luc, de tiep can, giup con nguoi va to chuc lam viec tot hon."},"vision":{"label":"Tam nhin","title":"Mot nen cong nghiep ket noi hon.","text":"Chung toi huong den tuong lai moi doanh nghiep deu tu tin dung cong cu so de doi moi va phat trien."},"approach":{"label":"Cach tiep can","title":"Lang nghe truoc. Xay dung co muc dich.","text":"Chung toi bat dau tu muc tieu va dieu kien thuc te cua ban, sau do ket noi chuyen mon phu hop de tao ra giai phap."},"capabilities":{"label":"Nang luc","title":"Nhung gi chung toi mang den.","items":["Thau hieu kinh doanh va van hanh","Chuyen mon cong nghe ung dung","Giai quyet van de theo dinh huong san xuat","Phuong phap trien khai hop tac"]},"cta":{"title":"Cung xay dung chuong tiep theo."}},
-  "news":{"hero":{"label":"Tin tuc & goc nhin","title":"Goc nhin cho tien bo.","text":"Tin tuc, y tuong va goc nhin thuc tien tu doi ngu TTS."},"categories":["Tat ca","AI","Phan mem","CAD/CAM","Chuyen doi so"],"featured":"Bai viet noi bat","items":[{"category":"AI","date":"Sap ra mat","title":"Ung dung AI thuc tien trong van hanh hang ngay","excerpt":"Goc nhin ve cach ap dung AI hop ly co the tao dong luc ma khong tang them phuc tap."},{"category":"Chuyen doi so","date":"Sap ra mat","title":"Nen tang cua chuyen doi so thanh cong","excerpt":"Vi sao quy trinh ro rang va lo trinh tap trung quan trong truoc khi dua cong nghe moi vao."},{"category":"CAD/CAM","date":"Sap ra mat","title":"Do chinh xac trong quy trinh san xuat ket noi","excerpt":"Cong cu ky thuat tich hop co the giup doi ngu tu y tuong den san xuat tu tin hon."}],"cta":{"title":"Ban co mot thach thuc dang de cung kham pha?"}},
-  "contact":{"hero":{"label":"Lien he TTS","title":"Hay bat dau mot cuoc trao doi.","text":"Hay cho chung toi biet ve thach thuc, co hoi hoac du an sap toi cua ban."},"info":{"label":"Thong tin lien he","title":"Chung toi san sang ho tro.","text":"Bạn có thể liên hệ qua email hoặc chuẩn bị tin nhắn bằng biểu mẫu. Bạn cần tự gửi tin nhắn trong ứng dụng của mình.","email":"Email","phone":"Dien thoai","whatsapp":"WhatsApp"},"form":{"name":"Họ và tên","namePlaceholder":"Nhập họ và tên của bạn","email":"Email công việc","emailPlaceholder":"Nhập địa chỉ email","message":"Nội dung cần hỗ trợ","messagePlaceholder":"Hãy cho chúng tôi biết về dự án của bạn","button":"Chuẩn bị tin nhắn","company":"Công ty (không bắt buộc)","companyPlaceholder":"Nhập tên công ty","service":"Dịch vụ quan tâm (không bắt buộc)","servicePlaceholder":"Chọn dịch vụ","channel":"Gửi tin nhắn qua","channels":{"whatsapp":"WhatsApp"},"instructions":"Biểu mẫu sẽ mở WhatsApp với tin nhắn được soạn sẵn. Hãy kiểm tra nội dung và tự gửi trong WhatsApp; TTS chỉ nhận được tin sau khi bạn nhấn Gửi.","validation":{"nameRequired":"Vui lòng nhập tên của bạn.","emailRequired":"Vui lòng nhập địa chỉ email.","emailInvalid":"Vui lòng nhập địa chỉ email hợp lệ.","messageRequired":"Vui lòng nhập nội dung cần hỗ trợ."},"prepared":{"title":"Tin nhắn đã sẵn sàng để sao chép","notice":"TTS chưa nhận được tin nhắn. Hãy kiểm tra nội dung đã soạn trong WhatsApp và tự gửi.","copyLabel":"Nội dung tin nhắn đã chuẩn bị","fallback":"Nếu WhatsApp không mở, hãy dùng liên kết này hoặc sao chép nội dung tin nhắn bên dưới.","openLink":"Mở WhatsApp","button":"Tin nhắn đã sẵn sàng"}},"location":{"label":"Dia diem","title":"Lam viec voi cac doi ngu o moi noi.","text":"Thong tin dia diem cua chung toi se duoc cap nhat tai day.","mapPlaceholder":"Ban do se cap nhat som"},"cta":{"title":"Ban muon gui email truc tiep?","text":"Chung toi rat mong duoc nghe tu ban."}}
+  "site": {
+    "description": "Tony Tech Solutions cung cấp giải pháp AI, phần mềm, CAD/CAM và chuyển đổi số."
+  },
+  "navigation": {
+    "label": "Điều hướng chính",
+    "language": "Ngôn ngữ",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "work": "Dự án",
+    "news": "Tin tức",
+    "contact": "Liên hệ",
+    "openMenu": "Mở menu điều hướng",
+    "closeMenu": "Đóng menu điều hướng",
+    "brandHome": "Về trang chủ Tony Tech Solutions"
+  },
+  "buttons": {
+    "getInTouch": "Liên hệ với chúng tôi",
+    "ourServices": "Dịch vụ",
+    "viewAllServices": "Xem tất cả dịch vụ",
+    "learnMore": "Tìm hiểu thêm",
+    "readArticle": "Đọc bài viết"
+  },
+  "footer": {
+    "services": "AI • Phần mềm • CAD/CAM • Chuyển đổi số"
+  },
+  "cta": {
+    "label": "Cùng trao đổi"
+  },
+  "home": {
+    "hero": {
+      "label": "Công nghệ thúc đẩy hoạt động kinh doanh",
+      "title": "Vận hành hiệu quả hơn.",
+      "highlight": "Sẵn sàng cho bước tiếp theo.",
+      "description": "TTS đồng hành cùng doanh nghiệp và nhà sản xuất trong việc ứng dụng AI, phần mềm, CAD/CAM và chuyển đổi số vào những khâu tạo ra giá trị thiết thực."
+    },
+    "intro": {
+      "label": "Tổng quan về TTS",
+      "title": "Công nghệ gắn với mục tiêu kinh doanh.",
+      "text": "Chúng tôi kết hợp chuyên môn kỹ thuật với sự am hiểu về hoạt động doanh nghiệp và sản xuất."
+    },
+    "servicesTitle": "Chuyên môn thiết thực, tập trung vào nhu cầu.",
+    "servicesDescription": "Các giải pháp phù hợp giúp tổ chức vận hành hiệu quả và chủ động trước những thay đổi.",
+    "why": {
+      "label": "Vì sao chọn TTS",
+      "title": "Đối tác đồng hành cùng doanh nghiệp.",
+      "lead": "Chúng tôi kết hợp công nghệ với tư duy kinh doanh để cùng giải quyết những vấn đề thực tế trong vận hành.",
+      "text": "Từ nhà máy đến khối văn phòng, chúng tôi hỗ trợ doanh nghiệp cải thiện quy trình bằng những công cụ số phù hợp."
+    },
+    "newsLabel": "Góc nhìn mới",
+    "newsTitle": "Thông tin hữu ích cho bước tiếp theo.",
+    "cta": {
+      "title": "Bạn muốn ứng dụng công nghệ hiệu quả hơn?",
+      "text": "Hãy chia sẻ mục tiêu của doanh nghiệp để chúng tôi cùng trao đổi về hướng triển khai phù hợp."
+    }
+  },
+  "services": {
+    "label": "Lĩnh vực chuyên môn",
+    "hero": {
+      "label": "Dịch vụ",
+      "title": "Giải pháp phù hợp với hoạt động của bạn.",
+      "text": "Chúng tôi ứng dụng công nghệ vào những nhu cầu thực tế của doanh nghiệp và nhà sản xuất."
+    },
+    "overviewTitle": "Công nghệ phục vụ công việc thực tế.",
+    "overviewText": "Các dịch vụ của TTS hướng đến việc giúp tổ chức làm việc rõ ràng, chính xác và hiệu quả hơn.",
+    "items": [
+      {
+        "title": "Giải pháp AI",
+        "description": "Ứng dụng AI vào dữ liệu và quy trình để hỗ trợ phân tích, ra quyết định và tự động hóa những công việc phù hợp."
+      },
+      {
+        "title": "Giải pháp phần mềm",
+        "description": "Phần mềm được thiết kế phù hợp giúp kết nối các nhóm, đơn giản hóa quy trình và hỗ trợ doanh nghiệp phát triển."
+      },
+      {
+        "title": "CAD/CAM",
+        "description": "Giải pháp kỹ thuật và sản xuất hỗ trợ nâng cao độ chính xác, hiệu quả và khả năng kiểm soát trong quy trình."
+      },
+      {
+        "title": "Chuyển đổi số",
+        "description": "Lộ trình phù hợp giúp doanh nghiệp từng bước kết nối quy trình và ứng dụng công nghệ số vào hoạt động."
+      }
+    ],
+    "cta": {
+      "title": "Cùng tìm hướng giải quyết cho nhu cầu tiếp theo của bạn.",
+      "text": "Liên hệ với đội ngũ TTS để bắt đầu trao đổi."
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Về TTS",
+      "title": "Ứng dụng công nghệ đúng mục tiêu.",
+      "text": "Tony Tech Solutions đồng hành cùng doanh nghiệp và nhà sản xuất trong quá trình ứng dụng công nghệ."
+    },
+    "who": {
+      "label": "Chúng tôi là ai",
+      "title": "Tập trung vào cải tiến thiết thực.",
+      "lead": "Chúng tôi giúp doanh nghiệp hiểu rõ và lựa chọn cách ứng dụng công nghệ phù hợp với công việc.",
+      "text": "TTS kết hợp chuyên môn kỹ thuật với sự am hiểu hoạt động vận hành để cùng doanh nghiệp xây dựng những cải tiến phù hợp."
+    },
+    "mission": {
+      "label": "Sứ mệnh",
+      "title": "Đưa công nghệ vào đúng việc.",
+      "text": "Cung cấp các giải pháp dễ tiếp cận, hỗ trợ con người và tổ chức hoàn thành công việc hiệu quả hơn."
+    },
+    "vision": {
+      "label": "Tầm nhìn",
+      "title": "Hoạt động sản xuất kết nối hơn.",
+      "text": "TTS hướng đến một tương lai nơi doanh nghiệp có thể chủ động ứng dụng công cụ số để thích ứng và phát triển."
+    },
+    "approach": {
+      "label": "Cách tiếp cận",
+      "title": "Lắng nghe trước, triển khai đúng mục tiêu.",
+      "text": "Chúng tôi bắt đầu từ mục tiêu và điều kiện thực tế của doanh nghiệp, sau đó xác định chuyên môn cần thiết để xây dựng giải pháp phù hợp."
+    },
+    "capabilities": {
+      "label": "Năng lực",
+      "title": "Chuyên môn TTS",
+      "items": [
+        "Am hiểu hoạt động kinh doanh và vận hành",
+        "Chuyên môn về công nghệ ứng dụng",
+        "Giải quyết vấn đề trong môi trường sản xuất",
+        "Phối hợp triển khai cùng doanh nghiệp"
+      ]
+    },
+    "cta": {
+      "title": "Cùng xây dựng bước phát triển tiếp theo."
+    }
+  },
+  "news": {
+    "visualLabel": "GÓC NHÌN",
+    "hero": {
+      "label": "Tin tức và góc nhìn",
+      "title": "Góc nhìn thiết thực cho doanh nghiệp.",
+      "text": "Cập nhật tin tức, ý tưởng và chia sẻ chuyên môn từ đội ngũ TTS."
+    },
+    "categories": [
+      "Tất cả",
+      "AI",
+      "Phần mềm",
+      "CAD/CAM",
+      "Chuyển đổi số"
+    ],
+    "featured": "Bài viết nổi bật",
+    "items": [
+      {
+        "category": "AI",
+        "date": "Sắp ra mắt",
+        "title": "Ứng dụng AI vào công việc hằng ngày",
+        "excerpt": "Một số gợi ý để cân nhắc cách ứng dụng AI phù hợp vào quy trình làm việc, tránh tạo thêm độ phức tạp không cần thiết."
+      },
+      {
+        "category": "Chuyển đổi số",
+        "date": "Sắp ra mắt",
+        "title": "Chuẩn bị nền tảng cho chuyển đổi số",
+        "excerpt": "Quy trình rõ ràng và lộ trình có trọng tâm giúp doanh nghiệp xác định thứ tự ứng dụng công nghệ."
+      },
+      {
+        "category": "CAD/CAM",
+        "date": "Sắp ra mắt",
+        "title": "Kết nối các bước trong quy trình sản xuất",
+        "excerpt": "Công cụ kỹ thuật tích hợp có thể hỗ trợ phối hợp thông tin từ khâu thiết kế đến sản xuất."
+      }
+    ],
+    "cta": {
+      "title": "Bạn đang cần trao đổi về một vấn đề cụ thể?"
+    }
+  },
+  "contact": {
+    "hero": {
+      "label": "Liên hệ TTS",
+      "title": "Bắt đầu cuộc trao đổi.",
+      "text": "Hãy chia sẻ với chúng tôi về nhu cầu, cơ hội hoặc dự án sắp tới của doanh nghiệp."
+    },
+    "info": {
+      "label": "Thông tin liên hệ",
+      "title": "Chúng tôi sẵn sàng trao đổi.",
+      "text": "Bạn có thể liên hệ qua email hoặc chuẩn bị tin nhắn bằng biểu mẫu. Bạn cần tự gửi tin nhắn trong ứng dụng của mình.",
+      "email": "Email",
+      "phone": "Điện thoại",
+      "whatsapp": "WhatsApp"
+    },
+    "form": {
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Email công việc",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "message": "Nội dung cần hỗ trợ",
+      "messagePlaceholder": "Hãy cho chúng tôi biết về dự án của bạn",
+      "button": "Chuẩn bị tin nhắn",
+      "company": "Công ty (không bắt buộc)",
+      "companyPlaceholder": "Nhập tên công ty",
+      "service": "Dịch vụ quan tâm (không bắt buộc)",
+      "servicePlaceholder": "Chọn dịch vụ",
+      "channel": "Gửi tin nhắn qua",
+      "channels": {
+        "whatsapp": "WhatsApp"
+      },
+      "instructions": "Biểu mẫu sẽ mở WhatsApp với tin nhắn được soạn sẵn. Hãy kiểm tra nội dung và tự gửi trong WhatsApp; TTS chỉ nhận được tin sau khi bạn nhấn Gửi.",
+      "validation": {
+        "nameRequired": "Vui lòng nhập tên của bạn.",
+        "emailRequired": "Vui lòng nhập địa chỉ email.",
+        "emailInvalid": "Vui lòng nhập địa chỉ email hợp lệ.",
+        "messageRequired": "Vui lòng nhập nội dung cần hỗ trợ."
+      },
+      "prepared": {
+        "title": "Tin nhắn đã sẵn sàng để sao chép",
+        "notice": "TTS chưa nhận được tin nhắn. Hãy kiểm tra nội dung đã soạn trong WhatsApp và tự gửi.",
+        "copyLabel": "Nội dung tin nhắn đã chuẩn bị",
+        "fallback": "Nếu WhatsApp không mở, hãy dùng liên kết này hoặc sao chép nội dung tin nhắn bên dưới.",
+        "openLink": "Mở WhatsApp",
+        "button": "Tin nhắn đã sẵn sàng"
+      }
+    },
+    "location": {
+      "label": "Địa điểm",
+      "title": "Kết nối với các đội ngũ ở nhiều nơi.",
+      "text": "Thông tin địa điểm của chúng tôi sẽ được cập nhật tại đây.",
+      "mapPlaceholder": "Bản đồ sẽ được cập nhật sau"
+    },
+    "cta": {
+      "title": "Bạn muốn gửi email trực tiếp?",
+      "text": "Chúng tôi mong được lắng nghe chia sẻ từ bạn."
+    }
+  },
+  "work": {
+    "hero": {
+      "label": "Dự án",
+      "title": "Ý tưởng công nghệ cho những bài toán thực tế.",
+      "text": "Khám phá các ý tưởng minh họa về AI, phần mềm, CAD/CAM và chuyển đổi số. Đây là nội dung mẫu, không phải dự án TTS đã hoàn thành."
+    },
+    "sectionLabel": "Năng lực ứng dụng",
+    "sectionTitle": "Một số ý tưởng minh họa.",
+    "sectionText": "Cấu trúc trang được chuẩn bị để bổ sung nội dung dự án trong tương lai. Các mục hiện tại đều được đánh dấu là nội dung mẫu, không phải dự án khách hàng hay nghiên cứu tình huống thực tế.",
+    "filterLabel": "Lọc ý tưởng dự án",
+    "categories": {
+      "all": "Tất cả dự án",
+      "aiAutomation": "AI và tự động hóa",
+      "software": "Phần mềm",
+      "cadCam": "CAD/CAM",
+      "digitalTransformation": "Chuyển đổi số"
+    },
+    "placeholderLabel": "Hình minh họa",
+    "placeholderNotice": "Ý tưởng minh họa — không phải dự án TTS đã hoàn thành.",
+    "imagePlaceholder": "Hình minh họa trừu tượng cho {{title}}",
+    "viewDetails": "Xem chi tiết",
+    "detailLabel": "Ý tưởng dự án",
+    "detailHeading": "Tổng quan ý tưởng",
+    "backToWork": "Quay lại trang dự án",
+    "notFound": {
+      "title": "Không tìm thấy ý tưởng dự án.",
+      "text": "Ý tưởng này có thể đã bị gỡ hoặc đường dẫn không chính xác.",
+      "link": "Xem tất cả ý tưởng dự án"
+    },
+    "projects": {
+      "quality-review-concept": {
+        "title": "Ý tưởng AI hỗ trợ đánh giá chất lượng",
+        "description": "Ý tưởng minh họa về việc sắp xếp thông tin kiểm tra và hỗ trợ quy trình đánh giá do con người thực hiện.",
+        "detail": "Nội dung mẫu này chỉ mô tả một ý tưởng quy trình có thể tham khảo. Đây không phải giải pháp đã triển khai, dự án khách hàng thực tế hay kết quả kinh doanh đã được đo lường."
+      },
+      "operations-dashboard-concept": {
+        "title": "Ý tưởng bảng điều khiển vận hành",
+        "description": "Ý tưởng phần mềm minh họa cách tập hợp một số thông tin vận hành trong cùng một giao diện rõ ràng.",
+        "detail": "Nội dung mẫu này phác thảo một hướng thiết kế bảng điều khiển để tham khảo. Chưa có ứng dụng nào được xây dựng hay triển khai cho khách hàng; nội dung cũng không đưa ra kết quả hiệu suất."
+      },
+      "engineering-workflow-concept": {
+        "title": "Ý tưởng quy trình kỹ thuật",
+        "description": "Ý tưởng CAD/CAM minh họa cách thông tin kỹ thuật có thể được chuyển tiếp trong quy trình sản xuất.",
+        "detail": "Nội dung mẫu này chỉ là ý tưởng minh họa, không phải dự án CAD/CAM đã hoàn thành hay mô tả hoạt động sản xuất thực tế."
+      },
+      "connected-operations-concept": {
+        "title": "Ý tưởng kết nối hoạt động vận hành",
+        "description": "Ý tưởng chuyển đổi số minh họa cách lập sơ đồ kết nối các quy trình và hệ thống vận hành.",
+        "detail": "Nội dung mẫu này chỉ minh họa một hoạt động lập kế hoạch có thể tham khảo. Đây không phải mô tả dự án chuyển đổi số thực tế và không đưa ra kết quả kinh doanh."
+      }
+    },
+    "cta": {
+      "title": "Bạn đang có ý tưởng cho một dự án?",
+      "text": "Hãy chia sẻ mục tiêu và nhu cầu để cùng TTS trao đổi về hướng thực hiện."
+    }
+  }
 }

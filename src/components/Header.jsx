@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 
-const navItems = [['home', '/'], ['about', '/about'], ['services', '/services'], ['news', '/news'], ['contact', '/contact']]
+const navItems = [['home', '/'], ['about', '/about'], ['services', '/services'], ['work', '/work'], ['news', '/news'], ['contact', '/contact']]
 
 function NavigationLinks({ t, onNavigate }) {
   return navItems.map(([name, path]) => <NavLink key={name} to={path} end={path === '/'} onClick={onNavigate}>{t(`navigation.${name}`)}</NavLink>)
@@ -56,7 +56,7 @@ export default function Header() {
   }, [])
 
   return <header className="header" ref={headerRef}>
-    <Link className="brand" to="/" aria-label="Tony Tech Solutions home">
+    <Link className="brand" to="/" aria-label={t('navigation.brandHome')}>
       <span className="brand-mark">TTS</span>
       <span className="brand-name">Tony Tech Solutions</span>
     </Link>
