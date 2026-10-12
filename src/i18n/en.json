@@ -1,5 +1,5 @@
 {
-  "navigation":{"label":"Main navigation","language":"Language","home":"Home","about":"About","services":"Services","news":"News","contact":"Contact"},
+  "navigation":{"label":"Main navigation","language":"Language","home":"Home","about":"About","services":"Services","news":"News","contact":"Contact","openMenu":"Open navigation menu","closeMenu":"Close navigation menu"},
   "buttons":{"getInTouch":"Get in Touch","ourServices":"Our Services","viewAllServices":"View all services","learnMore":"Learn more","readArticle":"Read article"},
   "footer":{"services":"AI • Software • CAD/CAM • Digital Transformation"},
   "cta":{"label":"Let's work together"},

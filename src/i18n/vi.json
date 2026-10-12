@@ -1,5 +1,5 @@
 {
-  "navigation":{"label":"Dieu huong chinh","language":"Ngon ngu","home":"Trang chu","about":"Gioi thieu","services":"Dich vu","news":"Tin tuc","contact":"Lien he"},
+  "navigation":{"label":"Dieu huong chinh","language":"Ngon ngu","home":"Trang chu","about":"Gioi thieu","services":"Dich vu","news":"Tin tuc","contact":"Lien he","openMenu":"Mo menu dieu huong","closeMenu":"Dong menu dieu huong"},
   "buttons":{"getInTouch":"Lien he","ourServices":"Dich vu cua chung toi","viewAllServices":"Xem tat ca dich vu","learnMore":"Tim hieu them","readArticle":"Doc bai viet"},
   "footer":{"services":"AI • Phan mem • CAD/CAM • Chuyen doi so"},
   "cta":{"label":"Cung hop tac"},
