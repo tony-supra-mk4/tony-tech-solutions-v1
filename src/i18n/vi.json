@@ -23,7 +23,7 @@
     "readArticle": "Đọc bài viết"
   },
   "footer": {
-    "services": "AI • Phần mềm • CAD/CAM • Chuyển đổi số"
+    "services": "AI • Phần mềm • CAD/CAM • Chuyển đổi số • Thiết kế sáng tạo"
   },
   "cta": {
     "label": "Cùng trao đổi"
@@ -33,7 +33,7 @@
       "label": "Công nghệ thúc đẩy hoạt động kinh doanh",
       "title": "Vận hành hiệu quả hơn.",
       "highlight": "Sẵn sàng cho bước tiếp theo.",
-      "description": "TTS đồng hành cùng doanh nghiệp và nhà sản xuất trong việc ứng dụng AI, phần mềm, CAD/CAM và chuyển đổi số vào những khâu tạo ra giá trị thiết thực."
+      "description": "TTS đồng hành cùng doanh nghiệp và nhà sản xuất trong việc ứng dụng AI, phần mềm, CAD/CAM, chuyển đổi số và thiết kế sáng tạo vào những nhu cầu thực tế."
     },
     "intro": {
       "label": "Tổng quan về TTS",
@@ -63,7 +63,7 @@
       "text": "Chúng tôi ứng dụng công nghệ vào những nhu cầu thực tế của doanh nghiệp và nhà sản xuất."
     },
     "overviewTitle": "Công nghệ phục vụ công việc thực tế.",
-    "overviewText": "Các dịch vụ của TTS hướng đến việc giúp tổ chức làm việc rõ ràng, chính xác và hiệu quả hơn.",
+    "overviewText": "Các dịch vụ của TTS hỗ trợ nhu cầu thực tế của doanh nghiệp, từ công nghệ vận hành đến thiết kế sáng tạo và truyền thông.",
     "items": [
       {
         "title": "Giải pháp AI",
@@ -80,11 +80,33 @@
       {
         "title": "Chuyển đổi số",
         "description": "Lộ trình phù hợp giúp doanh nghiệp từng bước kết nối quy trình và ứng dụng công nghệ số vào hoạt động."
+      },
+      {
+        "title": "Thiết kế & Giải pháp Sáng tạo",
+        "description": "Giải pháp thiết kế sáng tạo giúp doanh nghiệp xây dựng hình ảnh chuyên nghiệp, truyền tải thông điệp hiệu quả và nâng cao chất lượng tài liệu truyền thông. Từ hình ảnh, video và slide thuyết trình đến các ấn phẩm quảng cáo, chúng tôi hỗ trợ triển khai theo nhu cầu thực tế của từng dự án.",
+        "offerings": [
+          {
+            "title": "Thiết kế hình ảnh",
+            "description": "Thiết kế hình ảnh chuyên nghiệp cho truyền thông doanh nghiệp, chiến dịch tiếp thị, quảng cáo, mạng xã hội, giới thiệu sản phẩm và các tài liệu thương hiệu."
+          },
+          {
+            "title": "Thiết kế và biên tập video",
+            "description": "Sản xuất và biên tập video quảng bá, video giới thiệu doanh nghiệp, sản phẩm, dịch vụ và nội dung tiếp thị. Tùy yêu cầu dự án, video có thể sử dụng nội dung tạo bằng AI, tư liệu có sẵn, tư liệu do khách hàng cung cấp hoặc kết hợp các nguồn này."
+          },
+          {
+            "title": "Thiết kế slide thuyết trình",
+            "description": "Thiết kế đề xuất kinh doanh, hồ sơ doanh nghiệp, báo cáo, tài liệu bán hàng, bài thuyết trình với nhà đầu tư, tài liệu đào tạo và tài liệu trình bày với khách hàng. Nội dung được sắp xếp rõ ràng, hình ảnh nhất quán, dễ đọc và có mạch kể chuyên nghiệp."
+          },
+          {
+            "title": "Thiết kế ấn phẩm & hỗ trợ in ấn",
+            "description": "Thiết kế áp phích, băng rôn, danh thiếp, brochure, tờ rơi và các ấn phẩm tiếp thị hoặc tài liệu doanh nghiệp khác. Có thể trao đổi về việc chuẩn bị tệp sẵn sàng in và phối hợp hoặc cung cấp dịch vụ in khi được yêu cầu, tùy theo khả năng triển khai thực tế."
+          }
+        ]
       }
     ],
     "cta": {
-      "title": "Cùng tìm hướng giải quyết cho nhu cầu tiếp theo của bạn.",
-      "text": "Liên hệ với đội ngũ TTS để bắt đầu trao đổi."
+      "title": "Cùng trao đổi về nhu cầu tiếp theo của doanh nghiệp.",
+      "text": "Liên hệ TTS để tìm hiểu giải pháp phù hợp và yêu cầu báo giá."
     }
   },
   "about": {

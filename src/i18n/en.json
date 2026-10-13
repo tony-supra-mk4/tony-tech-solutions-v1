@@ -23,7 +23,7 @@
     "readArticle": "Read article"
   },
   "footer": {
-    "services": "AI • Software • CAD/CAM • Digital Transformation"
+    "services": "AI • Software • CAD/CAM • Digital Transformation • Design & Creative"
   },
   "cta": {
     "label": "Let's work together"
@@ -33,7 +33,7 @@
       "label": "Technology that moves business forward",
       "title": "Build smarter operations.",
       "highlight": "Shape what's next.",
-      "description": "Tony Tech Solutions helps businesses and manufacturers apply AI, software, CAD/CAM and digital transformation where they make the greatest difference."
+      "description": "Tony Tech Solutions helps businesses and manufacturers apply AI, software, CAD/CAM, digital transformation and creative design where they make the greatest difference."
     },
     "intro": {
       "label": "TTS at a glance",
@@ -63,7 +63,7 @@
       "text": "We turn technology into practical advantages for businesses and manufacturers."
     },
     "overviewTitle": "Technology that solves real work.",
-    "overviewText": "Our services are designed to bring more clarity, precision and momentum to your organization.",
+    "overviewText": "Our services support practical business needs, from operational technology to creative design and communications.",
     "items": [
       {
         "title": "AI Solutions",
@@ -80,11 +80,33 @@
       {
         "title": "Digital Transformation",
         "description": "A practical path from legacy processes to connected digital operations built for the future."
+      },
+      {
+        "title": "Design & Creative Solutions",
+        "description": "Creative design and content production to help businesses communicate clearly, present their products professionally and create effective marketing materials.",
+        "offerings": [
+          {
+            "title": "Graphic Design",
+            "description": "Professional visual design for corporate communications, marketing campaigns, advertising, social media, product promotions and brand materials."
+          },
+          {
+            "title": "Video Production & Editing",
+            "description": "Promotional, company introduction, product and service videos. Projects may use AI-generated content, stock footage, customer-provided footage or a combination, depending on the requirements."
+          },
+          {
+            "title": "Presentation Design",
+            "description": "Business proposals, company profiles, reports, sales presentations, investor pitches, training materials and customer presentations—with clear information hierarchy, visual consistency, readability and professional storytelling."
+          },
+          {
+            "title": "Print & Marketing Materials",
+            "description": "Posters, banners, business cards, brochures, flyers and other marketing or corporate print materials. Print-ready preparation and printing coordination or services can be discussed when requested and operationally available."
+          }
+        ]
       }
     ],
     "cta": {
-      "title": "Let's find the right solution for your next challenge.",
-      "text": "Start a conversation with the TTS team."
+      "title": "Let's discuss what your business needs next.",
+      "text": "Contact TTS to explore a suitable solution and request a quotation."
     }
   },
   "about": {

@@ -2,7 +2,7 @@
 
 ## Purpose and verified stack
 
-This repository contains the Tony Tech Solutions (TTS) bilingual company website for AI, software, CAD/CAM, and digital transformation services. It is a Vite-powered React single-page application using React Router for client-side routes and i18next/react-i18next for English and Vietnamese. The installed direct dependencies are React, React DOM, Vite, React Router, i18next, react-i18next, and i18next-browser-languagedetector.
+This repository contains the Tony Tech Solutions (TTS) bilingual company website for AI, software, CAD/CAM, digital transformation, and design and creative services. It is a Vite-powered React single-page application using React Router for client-side routes and i18next/react-i18next for English and Vietnamese. The installed direct dependencies are React, React DOM, Vite, React Router, i18next, react-i18next, and i18next-browser-languagedetector.
 
 Treat the existing implementation as the source of truth. Preserve its architecture and visual identity unless a requested change explicitly calls for something different.
 
